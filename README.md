@@ -1,6 +1,6 @@
 # Movie-Recommendation-System
 
-Movie Recommendation System built on the Movielens Dataset.
+Movie Recommendation System built on the Movielens Dataset.<br>
 Different types of models implemented:
 1. Content Based Filtering
 2. Collaborative Filtering
